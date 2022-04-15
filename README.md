@@ -13,10 +13,12 @@ This README file might not be complete too. I'm still improving this README as w
 To contribute, feel free to make a PR!
 
 # Setup
-Run
+Run command inside virtual env
 ```
-pip install -r requirements.txt
+pipenv run
 ```
+
+Install dependencies by running: pipenv install <package_name>
 
 # Running the tests
 ```
