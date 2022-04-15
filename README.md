@@ -18,6 +18,11 @@ Run
 pip install -r requirements.txt
 ```
 
+# Running the tests
+```
+python -m pytest
+```
+
 # .env file
 Create a .env file in the root of the project directory. The environment file should store your secrets to the app.
 
