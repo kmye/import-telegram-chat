@@ -12,10 +12,11 @@ This README file might not be complete too. I'm still improving this README as w
 # Contribute
 To contribute, feel free to make a PR!
 
-# dependencies
-pip install telethon
-pip install pytest
-pip install python-dotenv
+# Setup
+Run
+```
+pip install -r requirements.txt
+```
 
 # .env file
 Create a .env file in the root of the project directory. The environment file should store your secrets to the app.
