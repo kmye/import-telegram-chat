@@ -1,0 +1,21 @@
+{
+    "name": "Random Title",
+    "type": "private_supergroup",
+    "id": 1234567888,
+    "messages": [
+     {
+      "id": -991234567,
+      "type": "message",
+      "date": "2022-04-10T13:21:58",
+      "from": "Eileen Kang",
+      "from_id": "user12345678",
+      "file": "stickers/sticker.webp",
+      "thumbnail": "stickers/sticker.webp_thumb.jpg",
+      "media_type": "sticker",
+      "sticker_emoji": "🙄",
+      "width": 512,
+      "height": 410,
+      "text": ""
+     }
+    ]
+   }

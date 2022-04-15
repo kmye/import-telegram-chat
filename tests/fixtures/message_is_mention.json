@@ -1,0 +1,20 @@
+{
+    "name": "Random Title",
+    "type": "private_supergroup",
+    "id": 1234567888,
+    "messages": [
+     {
+      "id": -101234567,
+      "type": "message",
+      "date": "2022-04-10T13:22:07",
+      "from": "Eileen Kang",
+      "from_id": "user12345678",
+      "text": [
+       {
+        "type": "mention",
+        "text": "@symbol"
+       }
+      ]
+     }
+    ]
+   }
